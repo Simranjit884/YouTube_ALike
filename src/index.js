@@ -16,7 +16,7 @@ class App extends Component{
         videos:[],
         selectedVideo:null
     };
-    this.videoSearch('taylor swift');
+    this.videoSearch('react is awesome');
    }  
     
    videoSearch(term){
